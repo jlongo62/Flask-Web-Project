@@ -4,3 +4,6 @@
 
 /FlaskWebProject1/obj/Debug
 /.vs/FlaskWebProject1/v16
+/FlaskWebProject1/env
+/FlaskWebProject1/.vscode
+/FlaskWebProject1/.venv
